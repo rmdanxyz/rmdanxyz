@@ -1,16 +1,32 @@
-## Hi there 👋
+## About me
 
-<!--
-**rmdanxyz/rmdanxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+****Independent security researcher** and Mathematics & Computer Science graduate focused on cryptography, zero-knowledge proofs, and privacy-preserving technologies. My background in discrete mathematics, algorithms, and theoretical computer science shapes how I approach protocol security, and I’m building on it through hands-on research in ZK systems and their applications to blockchain and privacy**
 
-Here are some ideas to get you started:
+I’ve submitted **15 findings** across competitive audit contests, covering staking, governance, validator registries, and liquidity management protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+- **Telegram**: [Rmdanxyz](http://t.me/rmdanxyz)
+- **X**: [Rmdanxyz](http://x.com/Rmdanxyz)
+
+## Audit Contests
+
+| Contest                                                                                                          | Date      | Description                               | Findings                                                                                                                                                                                            |                                              Rank                                              |                                                   Report                                                    |
+| :--------------------------------------------------------------------------------------------------------------- | --------- | :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| [Reserve Protocol](https://codehawks.cyfrin.io/c/2024-12-quantamm)                                               | Apr 2026  | Governance, Staking                       | [1L](https://github.com/0xhuntoor/audits/blob/main/Contests/2025-01-QuantAmm.md)                                                                                                                    |                                              Non                                               | [📄](https://codehawks.cyfrin.io/c/2024-12-quantamm/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
+| [Succinct](https://czm.fel.cvut.cz/blockchain-lab)                                                               | Jul  2025 | Governance, Staking                       | [1L](https://github.com/0xHuntoor/audits/blob/main/Contests/2025-03-EigenLayer.md#casting-overflow-ineigenpodmanagerremovedepositsharescauses-operators-to-participate-with-no-backing-eth)         |                                              Non                                               |                                                      -                                                      |
+| [Primev-Validator-Registry](https://cantina.xyz/competitions/e7af4986-183d-4764-8bd2-1d6b47f87d99)               | May 2025  | Validator Registry                        | [1H, 1 info](https://github.com/0xHuntoor/audits/blob/main/Contests/2025-03-EigenLayer.md#casting-overflow-ineigenpodmanagerremovedepositsharescauses-operators-to-participate-with-no-backing-eth) |   [6th](https://cantina.xyz/code/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/overview/leaderboard)    |                                                      -                                                      |
+| [Daao](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard) | Jan  2025 | Liquidity Management                      | [1H, 2M, 1info](https://github.com/0xhuntoor/audits/blob/main/Contests/2024-07-Fenix.md)                                                                                                            |   [43th](https://cantina.xyz/code/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/overview/leaderboard)   |       [📄](https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/issues)        |
+| [FarcasterAttestation](https://audits.sherlock.xyz/contests/496)                                                 | Jan  2025 | EAS, Social Network                       | [1L](https://github.com/0xhuntoor/audits/blob/main/Contests/2024-10-Gamma.md)                                                                                                                       |                                              Non                                               |                            [📄](https://audits.sherlock.xyz/contests/496/report)                            |
+| [Ethos Network](https://codehawks.cyfrin.io/c/2024-12-alchemix)                                                  | Nov 2024  | Social Reputation Markets, Staking        | [1M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)                                                                                                                      |   [21th](https://cantina.xyz/code/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/overview/leaderboard)   | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
+| [Mev-Commit](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c)                              | OCT 2024  | Execution bids, cryptographic commitments | [1H, 2 Low, 1 info]()                                                                                                                                                                               | [35th](https://cantina.xyz/code/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/overview/leaderboard)<br> |                           [📄](https://code4rena.com/reports/2024-07-munchables)                            |
+| [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord)                                                             | Aug 2024  | Staking                                   | [1M](https)                                                                                                                                                                                         |              [20th](https://codehawks.cyfrin.io/c/2024-08-fjord/results?page=10)               |                            [📄](https://audits.sherlock.xyz/contests/468/report)                            |
+
+- **Browse all of my public contests participation on [Sherlock Profile](https://audits.sherlock.xyz/watson/rmdanxyz) and [Cantina Profile](https://cantina.xyz/u/rmdanxyz)**
+
+
+## Bug Bounties
+
+| Project     | Category | Severity | Report |
+| ----------- | -------- | -------- | ------ |
+| Coming Soon | -        | -        | -      |
